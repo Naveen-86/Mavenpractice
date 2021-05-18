@@ -1,0 +1,5 @@
+2021-05-18 11:15:06,428 DEBUG com.mavenpractice.Mapp main debug priority 
+2021-05-18 11:15:06,437 INFO com.mavenpractice.Mapp main info priority 
+2021-05-18 11:15:06,437 WARN com.mavenpractice.Mapp main warn priority 
+2021-05-18 11:15:06,438 ERROR com.mavenpractice.Mapp main error priority 
+2021-05-18 11:15:06,438 FATAL com.mavenpractice.Mapp main fatal priority 
